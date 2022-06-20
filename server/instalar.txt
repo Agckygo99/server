@@ -1,6 +1,0 @@
-express
-mongoose
-cors
-
-nodemon
-morgan
